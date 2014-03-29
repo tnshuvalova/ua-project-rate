@@ -30,7 +30,7 @@
 
 Встановлення проетку
 --------------------
-Для розгортання проекту треба встановити [npm](http://howtonode.org/introduction-to-npm).
+Для розгортання проекту треба встановити [nodejs](http://nodejs.org/), [npm](http://howtonode.org/introduction-to-npm) та [mongodb](https://www.mongodb.org/)
 
 В кореневій папці проекту виконати:
 
